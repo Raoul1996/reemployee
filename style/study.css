@@ -78,7 +78,7 @@
     border-radius: 1px;
 }
 .mainl #sub{
-    margin-left: 20px;
+    margin-left: 47px;
     width: 64px;
     height: 24px;
     background-color: orange;
@@ -92,6 +92,7 @@
     color: #999;
     float: right;
     margin-top: 25px;
+    padding-right: 50px;
 }
 .mainl #qreg{
     display: block;

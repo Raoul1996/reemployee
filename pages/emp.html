@@ -2,9 +2,101 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>就业信息站</title>
+    <title>招聘信息站</title>
+    <link rel="stylesheet" href="../style/study.css">
+    <link rel="stylesheet" href="../style/reset.css">
+    <style>
+        .main_rside{
+            background: url("../images/bg1.jpg") no-repeat right bottom;
+        }
+    </style>
 </head>
 <body>
+<div id="container">
+    <div id="header">
+        <div id="top"></div>
+        <div id="bar">
+            <div id="logo" class="fl">
+                <div id="logol" class="fl">
+                    <img src="../images/icon/logo.jpg" alt="">
+                </div>
+                <div id="logor" class="fl"><h1 id="title">&nbsp;|&nbsp;益就业</h1></div>
+            </div>
+            <div id="rlink" class="rl">
+                <a href="../index.html">易就业首页</a>
+                <a href="#">联系我们</a>
+            </div>
+        </div>
+        <div class="clr"></div>
+        <div id="nav">
+            <ul>
+                <li><a href="../index.html">网站主页</a></li>
+                <li><a href="#">招聘须知</a></li>
+                <li><a href="#">招聘须知</a></li>
+                <li><a href="#">招聘须知</a></li>
+                <li><a href="#">招聘须知</a></li>
+                <li><a href="#">招聘须知</a></li>
+                <li><a href="#">招聘须知</a></li>
+                <li><a href="#">招聘须知</a></li>
+
+
+                <li></li>
+            </ul>
+        </div>
+    </div>
+    <div class="clr"></div>
+    <div id="main">
+        <div id="lside" class="fl">
+            <!--login部分的name使用常用名称 在50行左右，请注意-->
+            <div class="mainl" id="login">
+                <div class="ht"><h5>用户登录</h5></div>
+                <form action="index.php" method="post">
+                    <p>用户名：<input type="text" id="username" name="username"></p>
+                    <p>密&nbsp;&nbsp;&nbsp;码：<input type="password" id="pass" name="password"></p>
+                    <p><input type="submit" value="登录" id="sub" name="submit"><a href="#">忘记密码</a></p>
+                    <div class="ht"></div>
+                </form>
+                <div>
+                    <form action="reg.php" method="post">
+                        <button id="qreg">用户免费注册</button>
+                    </form>
+                </div>
+            </div>
+            <div class="mainl mainm">
+                <div class="ht" style="text-align: left;"><h5>面基HR？loding！！！</h5></div>
+                <button>招聘面试</button>
+                <button>薪酬水平</button>
+                <button>劳动合同</button>
+                <button>五险一金</button>
+                <button>…………</button>
+
+            </div>
+
+        </div>
+        <div class="main_rside rl mianl">
+            <div class="ht" style="text-align: left;"><h3>招聘信息</h3></div>
+            <div class="line"></div>
+            <ul>
+                <li class="kl"><a href="#">1.这是个秘密</a></li>
+                <li class="kl"><a href="#">1.这是个秘密</a></li>
+                <li class="kl"><a href="#">1.这是个秘密</a></li>
+                <li class="kl"><a href="#">1.这是个秘密</a></li>
+                <li class="kl"><a href="#">1.这是个秘密</a></li>
+                <li class="kl"><a href="#">1.这是个秘密</a></li>
+                <li class="kl"><a href="#">1.这是个秘密</a></li>
+                <li class="kl"><a href="#">1.这是个秘密</a></li>
+                <li class="kl"><a href="#">1.这是个秘密</a></li>
+                <li class="kl"><a href="#">1.这是个秘密</a></li>
+
+
+            </ul>
+        </div>
+    </div>
+    <div class="clr"></div>
+    <div id="footer">
+        <div class="hls"></div>
+        <span> Copyright @ 2016 Wolf All Rights Reserved</span>
+    </div>
 
 </body>
 </html>
