@@ -17,6 +17,12 @@ fieldset,img {border:0}
 button,input,select,textarea {font-size:100%}
 table {border-collapse:collapse;border-spacing:0}
 /*end*/
+.line{
+	width: 100%;
+	height: 0;
+	overflow: hidden;
+	border-bottom: 1px dotted #666666;
+}
 /*float*/
 .fl{
 	float: left;
@@ -39,7 +45,22 @@ a:hover{
 	color: #eee;
 	/*text-decoration: none;*/
 }
+/*foot start*/
+#footer{
+	text-align: center;
+	font-size: 16px;
+	line-height: 50px;
+	width: 100%;
+	height: 50px;
+	margin-top: 20px;
+	/*background-color: #ddd;*/
+}
+#footer .hls{
+	width: 100%;
+	border: 2px solid #1369C0;
+}
 
+/*foot end*/
 
 
 

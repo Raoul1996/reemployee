@@ -47,7 +47,7 @@
 
         <!--login部分的name使用常用名称 在50行左右，请注意-->
 		<div class="mainl" id="login">
-			<div class="ht"><h5>企业用户登录</h5></div>
+			<div class="ht"><h5>用户登录</h5></div>
 			<form action="index.php" method="post">
 				<p>用户名：<input type="text" id="username" name="username"></p>
 				<p>密&nbsp;&nbsp;&nbsp;码：<input type="password" id="pass" name="password"></p>
@@ -56,7 +56,7 @@
 			</form>
 			<div>
 				<form action="reg.php" method="post">
-					<button id="qreg">企业用户免费注册</button>
+					<button id="qreg">&nbsp;用户免费注册&nbsp;</button>
 				</form>
 			</div>
 		</div>
@@ -179,19 +179,6 @@
     <span> Copyright @ 2016 Wolf All Rights Reserved</span>
 </div>
 </div>
-<script>
-    window.onload=function(){
-        var oLi=document.getElementById('nav').getElementsByTagName('li')
-        for(var i=0; i<oLi.length-1; i++){
-            oLi[i].index=i;
-            oLi[i].onmouseover=function () {
-                this.style.background="#4593FD";
-            }
-            oLi[i].onmouseout=function () {
-                this.style.background="#1369C0";
-            }
-        }
-    }
-</script>
+<script src="js/main.js"></script>
 </body>
 </html>
