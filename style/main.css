@@ -1,0 +1,240 @@
+
+#container{
+	width: 1000px;
+	margin:  0 auto;
+}
+#top{
+	height: 15px;
+	background: #ddd;
+}
+#logor{
+	height:30px;
+	width: 200px;
+}
+#title{
+	margin: 0px;
+	font-size: 30px;
+	line-height: 60px;
+}
+#rlink{
+
+	line-height: 60px;
+}
+#rlink a {
+	color: #dddddd;
+}
+/*header top end*/
+/*nav start*/
+#nav{
+	height: 30px;
+	background:#1369C0 ;
+}
+#nav ul{
+
+}
+#nav li{
+	width: 88px;
+	height: 28px;
+	line-height:28px;
+	float: left;
+	border-left:1px #1D7AD9 solid ;
+ }
+#nav li a {
+	display: inline-block;
+	padding: 0 20px;
+}
+/*nav end*/
+/*main  start*/
+#main{
+	margin-top:10px;
+}
+.mainl{
+    width: 240px;
+    height: 240px;
+    padding:0 10px;
+    margin-bottom: 20px;
+	background: url("../images/loginbg.gif")repeat-x left bottom;
+    background-size: cover;
+    border-radius: 2px;
+}
+
+.mainl h5{
+    display: inline-block;
+    font-size: 15px;
+    line-height:30px;
+
+}
+.mainl .ht{
+    padding-top: 10px;
+    border-bottom: 1px #666 dotted;
+}
+
+.mainl input{
+    margin-top: 20px;
+    border:1px #555 solid;
+    border-radius: 1px;
+}
+.mainl #sub{
+    margin-left: 20px;
+    width: 64px;
+    height: 24px;
+    background-color: orange;
+    border: 1px orange solid;
+    border-radius: 2px;
+    color: #fff;
+    font-weight: bold;
+}
+#login a{
+    display: block;
+    color: #999;
+    float: right;
+    margin-top: 25px;
+}
+.mainl #qreg{
+    display: block;
+    width: 136px;
+    height: 38px;
+    margin: 10px auto;
+    background-color: orange;
+    border: 1px orange solid;
+    border-radius: 2px;
+    color: #fff;
+    font-weight: bold;
+}
+/*login part end*/
+.mainm img{
+    display: block;
+    position: relative;
+    left: 0px;
+    top:20px;
+}
+.mainm .rl{
+    margin-left: 5px;
+    width: 115px;
+    padding-left: 10px;
+}
+.mainm h6{
+    display: inline-block;
+    padding-top:20px ;
+}
+.mainm a{
+    color: #666;
+}
+#callus{
+    height: 180px;
+}
+/*main left part end*/
+/*main right part start*/
+#rside{
+    margin-left: 270px;
+    width: 728px;
+    height: 100%;
+    /*border: 1px #444 solid;*/
+}
+.rls{
+    width: 360px;
+    height:250px;
+    margin-bottom: 20px;
+    background: url("../images/loginbg.gif")repeat-x left bottom;
+    background-size: cover;
+    border-radius: 2px;
+}
+#rrs{
+    margin-left: 370px;
+}
+#mainr_main{
+    width: 708px;
+    height: 50px;
+    background:url("../images/titbg3.png") repeat-x ;
+    line-height: 50px;
+    padding: 0 0 0 20px;
+
+}
+#mainr_main h3{
+    display: inline;
+    font-size: 20px;
+}
+#mainr_main span{
+    padding-left: 30px;
+    display: inline-block;
+    font-size: 12px;
+    color: #888;
+}
+.work{
+    width: 726px;
+    height: 100px;
+    margin-top: 20px;
+    border:1px orange solid ;
+    border-radius: 5px;
+}
+.work h2{
+    padding: 0 0 0 20px;
+}
+.work a{
+    display: inline-block;
+    padding:5px 30px;
+    color: orange;
+}
+#mainr{
+    /*border: 1px #dddddd solid;*/
+    margin-top: 20px;
+    height: 250px;
+}
+#mainr >.mainl{
+    width: 216px;
+    height: 248px;
+    margin: 1px 3px;
+    background-color: #1369C0;
+
+}
+
+
+
+
+
+
+
+
+/*main right end*/
+/*foot start*/
+#footer{
+    text-align: center;
+    font-size: 16px;
+    line-height: 50px;
+    width: 100%;
+    height: 50px;
+    margin-top: 20px;
+    /*background-color: #ddd;*/
+}
+#footer .hls{
+    width: 100%;
+    border: 2px solid #1369C0;
+}
+
+
+
+
+
+
+
+
+
+/*foot end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
