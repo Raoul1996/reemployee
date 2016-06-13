@@ -1,73 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6f19ceb-ae67-4764-843a-ad2259777a6e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon/R$H4ZHX8U07Z]_72Q6AY~HU.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon/R$H4ZHX8U07Z]_72Q6AY~HU_r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon/cfa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon/cfa_r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon/dfa_r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon/kgj.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon/qwej.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon/qwej_r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon/qwej_rd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon/qwerdd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon/we.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/0EF1F906978B8C31F3155BC0F7E_047BC30E_ED18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/12D837CB9E1714D4A734CDBBB79_4748FA83_2761B.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2D43305AF1E1C3C9D68586C3B6E_EBB524E5_121AC.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/4DDF1D386AB4AD6E2CB799C187F_192F5D82_E07F.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/8B51352E11753DA66377CB9623F_30801F55_107C2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/D0732C3C021FEBBC310CDA9C536_7544230F_9FE4E.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/EEC056DB51DEC62D1383C9504EF_F58A0C8B_EDE5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/F63DFFF215642132CF07A0CCCBB_0629E20E_15BD2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/FA73E2136697FB346887F29A34B_65255E51_17094.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/but.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/but_l.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/but_r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cent_right_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/down-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ewm_07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flink_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/flink_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/focus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/foot-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/foot_bg_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/header_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/test/gthjkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_page.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_page_active.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/l-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/more_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/opacity-slider-text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/r-btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/slideshow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/txt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/pic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/skin 1/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/skitter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/slide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.easing.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.easing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.fullscreen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.skitter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/slide.js" />
+    <list default="true" id="f6f19ceb-ae67-4764-843a-ad2259777a6e" name="Default" comment="last">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="reemployee.iws" />
@@ -301,6 +235,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -374,7 +310,7 @@
       <workItem from="1463042384450" duration="25000" />
       <workItem from="1463052322377" duration="77000" />
       <workItem from="1463052631322" duration="581000" />
-      <workItem from="1465834617080" duration="66000" />
+      <workItem from="1465834617080" duration="373000" />
     </task>
     <task id="LOCAL-00001" summary="last">
       <created>1465834656518</created>
@@ -383,19 +319,26 @@
       <option name="project" value="LOCAL" />
       <updated>1465834656518</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="last">
+      <created>1465834701813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1465834701813</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11015000" />
+    <option name="totallyTimeSpent" value="11322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
