@@ -1,0 +1,38 @@
+@charset "utf-8";
+/*css*/
+/*jQuery img for index.html*/
+/*** HEADER ***/
+/*form 3154504计算机课设*/
+#slider-container{
+    position:relative;
+    /*clear:both;*/
+    height:396px;
+    width:728px;
+    margin:0 auto;
+}
+#shadow-img-slider{
+    height:5px;
+    width:100%;
+    position:absolute;
+    top:0;
+    left:0;
+    /*background:url(../img/shadow-img-slider.png) repeat-x;*/
+    z-index:30;
+}
+.box_skitter_large{
+    width:728px;
+    height:396px;
+}
+.label_skitter{
+    bottom:20px !important;
+    left:40px !important;
+    padding:0 20px 20px 20px;
+    background:url(../img/opacity-slider-text.png) repeat;
+}
+.label_skitter h3{
+    margin-bottom:10px;
+    color:#FFFF1E;
+    height:25px;
+    line-height:25px;
+}
+/*end*/

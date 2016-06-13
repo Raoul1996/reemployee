@@ -1,0 +1,22 @@
+@charset "utf-8";
+/*头条新闻*/
+.ttnews{ padding: 10px 0px; }
+.scroll_tnews{ width: 1380px; position: relative; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; padding-bottom: 35px; }
+.bt{ color: #1c1c1c; font-size: 22px; line-height: 66px; }
+.bt a{ color: #fff; display: block; font-size: 12px; float: right; line-height: 29px; margin-top: 26px; background-image: url(../img/more_03.jpg); background-repeat: no-repeat; margin-right: 1px; padding-top: 0px; padding-right: 20px; padding-bottom: 0px; padding-left: 30px; }
+.picscroll{ width: 1340px; min-width:1340px;overflow: hidden; position: relative; margin: 0px auto; padding-bottom: 15px;}
+.picscroll .next,.picscroll .prev{ height: 205px; width: 43px; display: block; }
+.picscroll .next{ float: right; background: url(../img/but_r.png) no-repeat center 62px; cursor: pointer; }
+.picscroll .prev{ float: left; background: url(../img/but_l.png) no-repeat center 62px; cursor: pointer; }
+.picscroll .bd{ overflow: hidden; margin: 0px auto; width: 1200px; }
+.picscroll .bd ul{ overflow: hidden; zoom: 1; width: 2000px; }
+.picscroll .bd ul li{ _display: inline; overflow: hidden; text-align: center; width: 376px; float: left; display: block; }
+.picscroll .bd ul li img { width: 376px; height: 225px; }
+.picscroll .bd ul li dl { margin-top: 20px; }
+.picscroll .bd ul li dl dt { height: 68px; width: 67px; background: #FFF; color: #7d7d7d; float: left; }
+.picscroll .bd ul li dl dt h3 { background: #004ea1; height: 46px; line-height: 46px; color: #FFF; font-size: 28px; }
+.picscroll .bd ul li dl dd { float: right; display: inline-block; text-align: left; width: 280px; }
+.picscroll .bd ul li dl dd h3 a { font-size: 15px; color: #333; display: block; line-height: 26px; margin-bottom: 5px; }
+.picscroll .bd ul li dl dd h3 a:hover{ color:#004ea1}
+.picscroll .bd ul li dl dd p a { font-size: 12px; color: #777; line-height: 24px; display: block; }
+.picscroll .bd ul li dl dd p a:hover{color:#333}

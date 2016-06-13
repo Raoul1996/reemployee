@@ -1,0 +1,28 @@
+@charset "utf-8";
+/*css*/
+/*reset all*/
+div,form,img,ul,ol,li,dl,dt,dd,p,tr,td,body,strong,span,pre{margin:0; padding:0; border:0; background-repeat:no-repeat;}
+h1,h2,h3,h4,h5,h6,p{ margin:0; padding:0; font-weight:normal;}
+body{ font-family: "微软雅黑"; font-size: 13px; margin: 0; padding: 0; line-height: 22px; color: #666; height: auto; clear: both; }
+/* background:#ebebeb;*/
+.wrap{ width: 1200px; margin-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto; }
+img{border:none;display:block;}
+ul li{list-style-type: none;}
+a{text-decoration:none;}
+.clearfix:after{visibility: hidden;display: block;font-size: 0;content: " ";clear: both;height: 0;}
+.clearfix{*zoom:1;}
+/*.fleft{float:left;}*/
+/*.fright{float:right;}*/
+/*.dis{display:block;}*/
+/*from neuq.edu.cn*/
+/*some tips what I want to use*/
+a{
+    color: #ffffff;}
+.fl{float:left;}
+.rl{float:right;}
+.block{display:block;}
+.lineso{height: 0;width: 100%; border-bottom: 1px solid #ddd;overflow: hidden;}
+.linedo{height: 0;width: 100%; border-bottom: 1px dashed #666;overflow: hidden;}
+.comwidth{ width: 1200px; margin: 0 auto;}
+.maxwidth{    width: 100%;min-width: 1340px;}
+/*end*/

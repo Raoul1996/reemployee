@@ -1,0 +1,276 @@
+@charset "utf-8";
+/*css*/
+/*header*/
+#header{
+    background: #004ea1;
+}
+.topbar{
+    background: #073f7b;
+}
+.topbar li{
+    float: left;
+    margin: 0 15px 0 0;
+}
+.topbar ul{
+    padding: 0 80px;
+}
+ .topbar a:hover{
+    color:red;
+}
+
+.logo{
+    background: url("../img/logo_bg.png") no-repeat right center;
+}
+.logo img{
+    display: block;
+    margin-top:20px;
+}
+.logo .search{
+    width: 240px;
+    height: 32px;
+    position: relative;
+    top: -40px;
+    margin-right: 10px;
+}
+.logo form{
+    display: inline;
+    background: transparent;
+}
+.logo input{
+    color: #ffffff;
+    height: 2px;
+    padding: 15px;
+    font-size: 13px;
+    border: 0;
+    margin: 0;
+}
+#seach_box{
+    width: 230px;
+    padding: 15px 0 15px 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: transparent url(../img/txt.png);
+}
+#submit{
+    background: transparent url(../img/but.png);
+    width: 40px;
+    position: absolute;
+    top:0;
+    left: 200px;
+    z-index: 66;
+    cursor: pointer;
+}
+/*nav*/
+.nav{
+    height: 46px;
+    border-top: 1px #1D7AD9 solid;
+    cursor: pointer;
+    background:#004ea1;
+    text-align: center;
+    font-size: 16px;
+}
+.nav > ul > li{
+    width: 150px;
+    color: #ffffff;
+    line-height:46px;
+    float: left;
+    position: relative;
+}
+.nav > ul > li:hover{
+    background: #073f7b;
+}
+.navs{
+    display: none;
+    width: 160px;
+    line-height: 38px;
+    font-size: 14px;
+    background: #073f7b;
+    text-align: left;
+    padding-left: 30px;
+    position: absolute;
+    top:46px;
+    left: 0;
+    z-index: 898;
+}
+.navs li:hover{
+    color: #1D7AD9;
+}
+/*nav end*/
+/*header end*/
+/*main*/
+#main{
+}
+.bar{
+    height: 55px;
+}
+.bar h1{
+    display: inline-block;
+    line-height: 55px;
+    font-size: 26px;
+    width: 30%;
+    color: #111;
+}
+.bar >li{
+    padding-top:30px;
+    list-style-type: none;
+    font-size: 15px;
+}
+.newsbars{
+    margin-top: 22px;
+    width: 110px;
+    height: 30px;
+    background: #073f7b url(../img/more_03.jpg) no-repeat ;
+}
+.newsbars span{
+    display: inline;
+    padding-left: 20px;
+    padding-top: 0;
+    font-size: 13px;
+    line-height: 30px;
+    color: #ffffff;
+}
+/*notice 图片滑块，不要急*/
+.slide{
+    height: 450px;
+
+}
+/*end*/
+/*news */
+
+.news a{
+
+    color: #666;
+    text-decoration: none;
+}
+.news a:hover{
+    color: #073f7b;
+    text-decoration: none;
+}
+.newsn a{
+    padding-left: 20px;
+}
+.newsl{
+    width: 760px;
+    padding-right: 20px;
+}
+.newsr{
+    width: 420px;
+    background: #eeeeee;
+    margin-bottom: 20px;
+}
+.newsn li{
+    font-size: 15px;
+    height: 15px;
+    line-height: 15px;
+    padding-top: 20px;
+    overflow: hidden;
+}
+.newsn li span{
+    color: #aaaaaa;
+    padding-right: 20px;
+    border-right: 1px solid #dddddd;
+}
+.lineblue{
+    height: 0;
+    width: 100%;
+    border-bottom: 2px solid #073f7b;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.imgs img{
+    width: 268px;
+    height: 69px;
+}
+.imgs{
+    width: 25%;
+    text-align: center;
+}
+.nright{
+    padding: 20px 20px 0 20px;
+}
+.nright>img{
+    display:inline-block;
+}
+.nright ul{
+    width: 225px;
+    padding-left: 20px !important;
+    font-size: 14px;
+}
+.nright .focus{
+    width: 220px;
+}
+.nright li{
+    /*padding-left: 10px;*/
+}
+.nright li a{
+
+}
+.newsr li{
+    padding-bottom:5px;
+}
+.picscroll{
+    display:block;
+}
+.more_a{
+    color: #666666;
+}
+
+
+
+
+/*main end*/
+/*footer*/
+#footer{
+    color: #ffffff;
+    margin-top: 30px;
+    padding: 20px 0;
+    background: #004ea1 url("../img/foot_bg_03.jpg") left bottom;
+}
+.footer >div{
+    border-right: 1px solid #dddddd;
+}
+.footerl{
+    width: 400px;
+}
+.footerl h3{
+    display:inline-block;
+    font-size: 18px;
+}
+.footerl li{
+    min-width: 25%;
+    width: 30px;
+    line-height: 30px;
+}
+.footerl li a{
+    color: #ffffff;
+}
+.footerl li a:hover{
+     color: #1D7AD9;
+ }
+.footerl .sp{
+    min-width: 33%;
+}
+.footerc{
+    width: 500px;
+    height: 114px;
+}
+.footerc img{
+    display: block;
+    margin: 0 auto;
+    padding-top: 35px;
+}
+.footerr{
+    border: 0!important;
+}
+.footerr img{
+    display:block;
+    padding-left: 80px;
+    padding-top:8px;
+    margin: 0 auto;
+}
+
+
+
+
+/*footer end*/
