@@ -1,12 +1,26 @@
-window.onload=function(){
-    var oLi=document.getElementById('nav').getElementsByTagName('li')
-    for(var i=0; i<oLi.length-1; i++){
-        oLi[i].index=i;
-        oLi[i].onmouseover=function () {
-            this.style.background="#4593FD";
-        }
-        oLi[i].onmouseout=function () {
-            this.style.background="#1369C0";
-        }
-    }
+
+$(document).ready(function(){
+    $(document).ready(function() {
+        $(".box_skitter_large").skitter({
+            animation: "random",
+            interval: 3000,
+            numbers: false,
+            numbers_align: "right",
+            hideTools: true,
+            controls: false,
+            focus: false,
+            focus_position: true,
+            width_label:'340px',
+            enable_navigation_keys: true,
+            progressbar: false
+        });
+    });
+});
+function showsub(li) {
+    var submenu=li.getElementsByTagName("div")[0];
+    submenu.style.display="block";
+}
+function hidesub(li) {
+    var submenu=li.getElementsByTagName("div")[0];
+    submenu.style.display="none";
 }
